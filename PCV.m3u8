@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Sports",T Sports
-http://103.109.56.116/live/skyfeed1005/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Star Sports 1
 http://172.30.30.30/hls/5052.m3u8
