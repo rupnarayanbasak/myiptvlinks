@@ -1,7 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Sports",Star Jalsha
-http://172.26.1.3:8089/amrbd/Star-Jalsha/playlist.m3u8
+http://103.107.79.87:8080/CH8110SD01/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports",Zee Bangla
+http://103.107.79.87:8080/CH8110SD03/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports",Star Sports 1
 http://172.30.30.30/hls/5052.m3u8
