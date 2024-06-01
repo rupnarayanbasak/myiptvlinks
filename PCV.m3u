@@ -14,8 +14,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716459713/ei/Y
 http://starshare.live:8080/live/Sylvia/Sylvia/3802.m3u8
 
 
-
-
+#EXTINF:-1,T Sports 
+https://the-nayeemparvez.xyz/tsp/stream.m3u8?id=live-02
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024" group-title="",IPL 2024 Live English
