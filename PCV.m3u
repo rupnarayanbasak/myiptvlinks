@@ -1,18 +1,5 @@
 #EXTM3U
 
 
-#EXTINF:-1,Somoy TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716459710/ei/XsROZqi2HZG2ir4P44ep4Ao/ip/172.183.146.82/id/guUykSvBvik.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51177566/txs/51177561%2C51177562%2C51177563%2C51177564%2C51177565%2C51177566%2C51177567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8JGGuERbowb2dsXq42uP--I6YOhlY7MDUZqvpQTg7nsmYm9jNp89WNy-wc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANQvBfLhpRBPUuqLExg6hCdUMWms42MTaRCnqBMZqFb2AiBnCQ84R29oSA1rr2cu5VEkTxcWxFNG1d673OUaWExjNw%3D%3D/file/index.m3u8
-
-#EXTINF:-1,Channel I
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716459711/ei/X8ROZqP2CdvKybgPj8qcgA8/ip/172.183.146.82/id/8tvpdpYqSwg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAO63cpIaa5eXDP6jNm87o2ZTTXABzoJ4zF7cxrQdXkCpAiAZQaJmYlw5jLwHE9biLhdSCp1ez4csWGymaHTQ3xVT3g%3D%3D/file/index.m3u8
-
-#EXTINF:-1,Jamuna TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716459713/ei/YcROZvu6MKyslu8PqKOx2Ag/ip/172.183.146.82/id/c1QisFonCU4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgWVzrHYlP1UKodk-0S6FFM1T2adehwWSZnfK6jq_jYTUCIE1tizaNFDiZTViuiapagq4xnOwXWSKjwo3PuRbF_wf4/file/index.m3u8
-
-#EXTINF:-1,Nagorik TV
-http://starshare.live:8080/live/Sylvia/Sylvia/3802.m3u8
-
-
-#EXTINF:-1,T Sports 
-https://the-nayeemparvez.xyz/tsp/stream.m3u8?id=live-02
+#EXTINF:-1, B4U Music
+https://tvsen6.aynascope.net/b4umusic/index.m3u8?e=1760723622&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=1d64527a0fdf1e6d25427cc6965e1712
