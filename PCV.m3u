@@ -3,3 +3,12 @@
 
 #EXTINF:-1, B4U Music
 https://tvsen6.aynascope.net/b4umusic/index.m3u8?e=1760723622&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=1d64527a0fdf1e6d25427cc6965e1712
+
+#EXTINF:-1, Maasti
+https://tvsen6.aynascope.net/mastimusic/index.m3u8?e=1760728066&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=566a307256b21301c4710ea97e4b96f7
+
+#EXTINF:-1, Dhoom Music
+https://tvsen6.aynascope.net/dhoom/index.m3u8?e=1760728107&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=1d144bc524bf1f874f1c9080d6c6336f
+
+#EXTINF:-1, Sangeet Bangla
+https://tvsen6.aynascope.net/SangeetBangla/index.m3u8?e=1760728154&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=abf8da5c68725f04866d8159ffeb32c2
